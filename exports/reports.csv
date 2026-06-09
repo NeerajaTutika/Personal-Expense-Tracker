@@ -1,0 +1,10 @@
+ExpenseID,UserID,CategoryID,Amount,Date,Description
+1,1,5,3000.0,2026-06-12,Semester Books
+2,1,1,250.0,2026-06-01,Breakfast
+3,1,1,450.0,2026-06-03,Lunch with Friends
+4,1,2,1200.0,2026-06-05,Monthly Bus Pass
+5,1,3,2200.0,2026-06-08,Electricity Bill
+6,1,4,800.0,2026-06-10,Movie Tickets
+7,1,6,600.0,2026-06-15,Medical Checkup
+8,1,7,1000.0,2026-06-18,Clothing Purchase
+9,1,3,500.0,2026-06-20,Internet Bill
